@@ -37,6 +37,7 @@ To deploy an executable file for a given operating system, run
 ```
 npm run make
 ```
+The executable will be generated in out folder
 
 ## Acknowledgments
 
