@@ -1,6 +1,6 @@
 # Screen Recorder Electron App
 
-This is an implementation project in Electron-JS. This is a screen recorder app with window recording function in windows, linux and preferably macOS. 
+This is an implementation project in Electron-JS. This is a screen recorder app with window recording function in windows, linux and macOS. 
 
 ## Installing
 
